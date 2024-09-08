@@ -26,7 +26,7 @@ Try to set the environment manually.
 ### Datasets
 * ShapeNet: [link](https://pan.baidu.com/s/1y7oUJFduYnLYOmpczhjIBg)  code: aran 
 * SemanticKITTI: [link](https://pan.baidu.com/s/15ktXNi13HmT4dKVYpqDulQ)  code: jrg2 
-* MatterPort, ScanNet, KITTI are same with pcl2pcl[link](https://github.com/xuelin-chen/pcl2pcl-gan-pub)
+* MatterPort, ScanNet, KITTI are same with pcl2pcl [link](https://github.com/xuelin-chen/pcl2pcl-gan-pub)
 
 ### Pretrained model
 Download from [link](https://pan.baidu.com/s/15GUblt7htrs4b_sb3TTPTA)  code: f5pj 
