@@ -1,4 +1,4 @@
-## Installation
+### Installation
 Clone this repository into any place you want.
 ```
 git clone https://github.com/MillyMaMa/SSPC-MVA.git
@@ -23,10 +23,15 @@ Try to set the environment manually.
 * KNN-CUDA
 * pykdtree
 * torch_scatter
-#### Pretrained model
+### Datasets
+ShapeNet: [link](https://pan.baidu.com/s/1y7oUJFduYnLYOmpczhjIBg)  code: aran
+SemanticKITTI: [link](https://pan.baidu.com/s/15ktXNi13HmT4dKVYpqDulQ)  code: jrg2
+MatterPort, ScanNet, KITTI are same with [link](https://github.com/xuelin-chen/pcl2pcl-gan-pub)
+
+### Pretrained model
 Download from [link](https://pan.baidu.com/s/15GUblt7htrs4b_sb3TTPTA)  提取码: f5pj 
 
-Train or test our model:
+### Train or test our model
 ```
 CUDA_VISIBLE_DEVICES=0 python main.py --experiment_id {experiment id} --dataset_name {dataset} --class_name {plane/car/chair/table} --batch_size 16
 ```
