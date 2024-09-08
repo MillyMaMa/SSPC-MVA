@@ -24,12 +24,12 @@ Try to set the environment manually.
 * pykdtree
 * torch_scatter
 ### Datasets
-ShapeNet: [link](https://pan.baidu.com/s/1y7oUJFduYnLYOmpczhjIBg)  code: aran \\
-SemanticKITTI: [link](https://pan.baidu.com/s/15ktXNi13HmT4dKVYpqDulQ)  code: jrg2 \\
-MatterPort, ScanNet, KITTI are same with [link](https://github.com/xuelin-chen/pcl2pcl-gan-pub)
+*ShapeNet: [link](https://pan.baidu.com/s/1y7oUJFduYnLYOmpczhjIBg)  code: aran \\
+*SemanticKITTI: [link](https://pan.baidu.com/s/15ktXNi13HmT4dKVYpqDulQ)  code: jrg2 \\
+*MatterPort, ScanNet, KITTI are same with [link](https://github.com/xuelin-chen/pcl2pcl-gan-pub)
 
 ### Pretrained model
-Download from [link](https://pan.baidu.com/s/15GUblt7htrs4b_sb3TTPTA)  提取码: f5pj 
+Download from [link](https://pan.baidu.com/s/15GUblt7htrs4b_sb3TTPTA)  code: f5pj 
 
 ### Train or test our model
 ```
