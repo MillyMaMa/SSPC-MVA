@@ -1,7 +1,7 @@
 ## Installation
 Clone this repository into any place you want.
 ```
-git clone https://github.com/Sangminhong/ACL-SPC_PyTorch.git
+git clone https://github.com/MillyMaMa/SSPC-MVA.git
 cd SSPC-MVA
 ```
 ### Dependencies
@@ -24,7 +24,7 @@ Try to set the environment manually.
 * pykdtree
 * torch_scatter
 #### Pretrained model
-Download from [link](https://drive.google.com/drive/folders/1tG3hBXtroHe4iXHb5W8XIfQ8YJEeS3Tp?usp=sharing)
+Download from [link](https://pan.baidu.com/s/15GUblt7htrs4b_sb3TTPTA)  提取码: f5pj 
 
 Train or test our model:
 ```
