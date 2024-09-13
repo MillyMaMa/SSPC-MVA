@@ -1,4 +1,4 @@
-### supplementary material
+### Supplementary material
 More experimental results of our SSPC-MVA submitted to ICASSP2025 can be found in supplementary_material_ICASSP2025_Jingjing-Lu_SSPC-MVA.pdf
 
 ### Installation
@@ -36,5 +36,5 @@ Download from [link](https://pan.baidu.com/s/15GUblt7htrs4b_sb3TTPTA)  code: f5p
 
 ### Train or test our model
 ```
-CUDA_VISIBLE_DEVICES=0 python main.py --experiment_id {experiment id} --dataset_name {dataset} --class_name {plane/car/chair/table} --batch_size 16
+CUDA_VISIBLE_DEVICES=0 python main.py --experiment_id {experiment id} --dataset_name {dataset} --class_name {plane/car/chair/table}
 ```
