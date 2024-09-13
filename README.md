@@ -1,3 +1,6 @@
+### supplementary material
+More experimental results of our SSPC-MVA submitted to ICASSP2025 can be found in supplementary_material_ICASSP2025_Jingjing-Lu_SSPC-MVA.pdf
+
 ### Installation
 Clone this repository into any place you want.
 ```
