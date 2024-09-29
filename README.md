@@ -15,7 +15,7 @@ conda activate SPC-MVA
 ```
 Try to set the environment manually.
 * Python 3.8.5
-* PyTorch 1.10.1
+* PyTorch
 * numpy
 * h5py
 * numba
@@ -27,12 +27,10 @@ Try to set the environment manually.
 * pykdtree
 * torch_scatter
 ### Datasets
-* ShapeNet: [link](https://pan.baidu.com/s/1y7oUJFduYnLYOmpczhjIBg)  code: aran 
-* SemanticKITTI: [link](https://pan.baidu.com/s/15ktXNi13HmT4dKVYpqDulQ)  code: jrg2 
-* MatterPort, ScanNet, KITTI are same with pcl2pcl [link](https://github.com/xuelin-chen/pcl2pcl-gan-pub)
+We use the same datasets with ACL-SPC[link](https://github.com/Sangminhong/ACL-SPC_PyTorch)
 
 ### Pretrained model
-Download from [link](https://pan.baidu.com/s/15GUblt7htrs4b_sb3TTPTA)  code: f5pj 
+come soon...
 
 ### Train or test our model
 ```
