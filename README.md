@@ -27,7 +27,7 @@ Try to set the environment manually.
 * pykdtree
 * torch_scatter
 ### Datasets
-We use the same datasets with ACL-SPC[link](https://github.com/Sangminhong/ACL-SPC_PyTorch)
+We use the same datasets with [ACL-SPC](https://github.com/Sangminhong/ACL-SPC_PyTorch)
 
 ### Pretrained model
 come soon...
