@@ -30,7 +30,7 @@ Try to set the environment manually.
 We use the same datasets with [ACL-SPC](https://github.com/Sangminhong/ACL-SPC_PyTorch)
 
 ### Pretrained model
-come soon...
+coming soon...
 
 ### Train or test our model
 ```
