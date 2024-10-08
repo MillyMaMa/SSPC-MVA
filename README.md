@@ -28,11 +28,11 @@ Try to set the environment manually.
 * torch_scatter
 ### Datasets
 We use the same datasets with [ACL-SPC](https://github.com/Sangminhong/ACL-SPC_PyTorch)
+* ShapeNet: [link](https://pan.baidu.com/s/1y7oUJFduYnLYOmpczhjIBg)  code: aran 
+* SemanticKITTI: [link](https://pan.baidu.com/s/15ktXNi13HmT4dKVYpqDulQ)  code: jrg2 
+* MatterPort, ScanNet, KITTI are same with [pcl2pcl](https://github.com/xuelin-chen/pcl2pcl-gan-pub)
 
-### Pretrained model
-coming soon...
-
-### Train or test our model
+### Training or testing
 ```
 CUDA_VISIBLE_DEVICES=0 python main.py --experiment_id {experiment id} --dataset_name {dataset} --class_name {plane/car/chair/table}
 ```
